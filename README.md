@@ -11,12 +11,15 @@ O projeto é um site desktop de registro de metas com progresso semanal.
 ![Thumbnail-inorbit](Thumbnail.png?raw=true "Thumbnail-inorbit")
 
 ---
+### Tela incial
 ![Empty](Empty.png?raw=true "Empty")
 
 ---
+### Tela de credenciamento de uma nova meta
 ![Create-Goals](Create-goal.png?raw=true "Create-Goal")
 
 ---
+### Tela de monitoramento de visão geral das metas criadas
 ![Goals](Goals.png?raw=true "Goals")
 
 ---
