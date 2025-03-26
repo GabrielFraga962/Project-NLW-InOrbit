@@ -6,6 +6,7 @@ O projeto é um site desktop de registro de metas com progresso semanal.
 
 ---
 
+
 # Preview 🖼️
 
 ![Thumbnail-inorbit](Thumbnail.png?raw=true "Thumbnail-inorbit")
